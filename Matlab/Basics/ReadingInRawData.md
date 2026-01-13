@@ -2,12 +2,11 @@
 
 ### **Contents**
 
-* [Contents](#Contents)
-* [So, let's get started...](#So,let'sgetstarted...)
-* [Functions and structures](#Functionsandstructures)
-* [Let's read some data!](#Let'sreadsomedata!)
-* [Let's take a look at the data structure](#Let'stakealookatthedatastructure)
-* [Known bug](#Knownbug)
+- [So, let's get started...](#so-lets-get-started)
+- [Functions and structures](#functions-and-structures)
+- [Let's read some data!](#lets-read-some-data)
+- [Let's take a look at the data structure](#lets-take-a-look-at-the-data-structure)
+- [Known bug](#known-bug)
 
 ### So, let's get started...
 
