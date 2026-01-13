@@ -50,7 +50,7 @@ You can see that some of the fields are simple variables that contain numbers (f
 
 Take your time and play around with this data structure. Discover the information it has. As an exercise, try to plot a few samples of one channel just using the _plot_ command. Try adding the right time axis....
 
-### Known bug
+### Known bug (26/01/13 still a thing? Feedback from Windows users please)
 
 If you work with MATLAB on your local machine using windows it can happen that you are not able to read .fif files stored on the server (mounting via [sftpNetDrive](Best-practices-for-playing-with-MEG-data_23859778.html))! [See here the error message.](attachments/21139942/27408084.png) There is currently no easy solution that we know of. In some cases you may rely on using the bomber what can be time consuming in case you rely on using the graphical user interface / GUI) and you might even encounter problems with the GUI such that figures/ data are not shown appropriately.
 
